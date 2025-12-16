@@ -1,4 +1,4 @@
-# 🕶️ Ritik Tyagi | Cyber Security & Penetration Tester
+#  Ritik Tyagi | Cyber Security & Penetration Tester
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cyber%20Security-%2300ffcc.svg?style=for-the-badge&logo=hackthebox&logoColor=black" />
